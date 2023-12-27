@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Neurotrophic Factors**
 
-- 🌱 I’m currently learning **Bionformatics and Computationala Biology**
+- 🌱 I’m currently learning **Bionformatics and Computational Biology**
 
 - I previously worked on **Protein Interaction Networks associated with Common Diseases**
 
