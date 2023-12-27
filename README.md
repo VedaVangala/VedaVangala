@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://vedanagapriya.blogspot.com/](https://vedanagapriya.blogspot.com/)
 
-- 📫 How to reach me **vedanagapriya@usf.edu**
+- 📫 You can reach me **vedanagapriya@usf.edu**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/veda-vangala](https://www.linkedin.com/in/veda-vangala)
 
