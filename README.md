@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veda Naga Priya Vangala</h1>
 <h3 align="center">Aspiring Bioinformatics Analyst and Researcher</h3>
 
-<img align="center" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.liveagood.life%2Fcommunity%2F59311-girl-working-on-laptop-lottie-animation%2F&psig=AOvVaw2-mUimsfjpEGZ9pEPyPByj&ust=1703768125237000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJi9uLfVr4MDFQAAAAAdAAAAABAa](https://www.liveagood.life/community/wp-content/uploads/sites/2/2021/12/59311-girl-working-on-laptop-lottie-animation.gif)"
+<img align="right" alt="coding" width="400" src="https://www.liveagood.life/community/wp-content/uploads/sites/2/2021/12/59311-girl-working-on-laptop-lottie-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedavangala&label=Profile%20views&color=0e75b6&style=flat" alt="vedavangala" /> </p>
 
@@ -11,7 +11,7 @@
 
 - I previously worked on **Protein Interaction Networks associated with Common Diseases**
 
-- In addition,I worked on **Accuracy Package in R**
+- In addition,I worked on **Accuracy Package**
 
 - 📝 I regularly write articles on [https://vedanagapriya.blogspot.com/](https://vedanagapriya.blogspot.com/)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dr. veda naga priya vangala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr. veda naga priya vangala" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/dr. veda naga priya vangala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dr. veda naga priya vangala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
