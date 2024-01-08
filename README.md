@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Neurotrophic Factors**
 
-- 🌱 I’m currently learning **Bionformatics and Computational Biology**
+- 🌱 I’m currently pursuing **Master's in Bionformatics and Computational Biology**
 
 - I previously worked on **Protein Interaction Networks associated with Common Diseases**
 
-- In addition,I worked on **Accuracy Package**
+- In addition,I worked on **Accuracy Package**, **Drugsafety_Analysis** and **Mentalhealth_analysis**
 
-- 📝 I regularly write articles on [https://vedanagapriya.blogspot.com/](https://vedanagapriya.blogspot.com/)
+- 📝 I write articles on [https://vedanagapriya.blogspot.com/](https://vedanagapriya.blogspot.com/)
 
 - 📫 You can reach me **vedanagapriya@usf.edu**
 
