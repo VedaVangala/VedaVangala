@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedavangala&label=Profile%20views&color=0e75b6&style=flat" alt="vedavangala" /> </p>
 
-- 🔭 I’m currently working on **Neurotrophic Factors**
+- 🔭 I’m currently working on **VDJ Mining Software on non-controlled data**
 
 - 🌱 I’m currently pursuing **Master's in Bionformatics and Computational Biology**
 
-- I previously worked on **Protein Interaction Networks associated with Common Diseases**
+- I previously worked on **Protein Interaction Networks associated with Common Diseases and Neurotrophic Factors**
 
 - In addition,I worked on **Accuracy Package**, **Drugsafety_Analysis** and **Mentalhealth_analysis**
 
