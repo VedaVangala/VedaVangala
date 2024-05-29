@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **VDJ Mining Software on non-controlled data**
 
-- 🌱 I’m currently pursuing **Master's in Bionformatics and Computational Biology**
+- 🌱 **Master's in Bionformatics and Computational Biology**
 
 - I previously worked on **Protein Interaction Networks associated with Common Diseases and Neurotrophic Factors**
 
