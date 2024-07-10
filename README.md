@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedavangala&label=Profile%20views&color=0e75b6&style=flat" alt="vedavangala" /> </p>
 
-- 🔭 I’m currently working on **VDJ Mining Software on non-controlled data**
+- 🔭 I have experience with implementation of **VDJ Mining Software on non-controlled data**
 
 - 🌱 **Master's in Bionformatics and Computational Biology**
 
