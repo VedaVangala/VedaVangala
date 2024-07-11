@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veda Naga Priya Vangala</h1>
 <h3 align="center">Aspiring Bioinformatics Analyst and Researcher</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif">
+<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedavangala&label=Profile%20views&color=0e75b6&style=flat" alt="vedavangala" /> </p>
 
